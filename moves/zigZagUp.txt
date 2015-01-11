@@ -1,0 +1,3 @@
+x offset = -5, -5
+y offset = -4,  4
+how many = 80, 80

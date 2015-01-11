@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Exp()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Exp\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ contact()
+comment2.text=\r\n\ Let's\ the\ Exp\ know\ that\ the\ player's\ ship\ came\ in\ contact\ with\ this\ object\r\n
+comment3.params=
+comment3.target=void\ loadAssets()
+comment3.text=\r\n\ Loads\ images\ used\ for\ animation\r\n
+comment4.params=
+comment4.target=int\ expAmount()
+comment4.text=\r\n\ Get's\ the\ amount\ of\ experience\ this\ object\ is\ worth\r\n\ \r\n\ @return\ The\ experience\ amount\r\n
+numComments=5

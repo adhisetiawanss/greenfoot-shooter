@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ enemyDelay()
+comment0.text=\r\n\ Returns\ the\ enemies\ delay\ amount\ that\ was\ parsed\ from\ parseWave()\r\n\ \r\n\ @return\ The\ enemy\ delay\r\n
+comment1.params=
+comment1.target=int\ waveDelay()
+comment1.text=\r\n\ Returns\ the\ waves\ delay\ amount\ that\ was\ parsed\ from\ parseWave()\r\n\ \r\n\ @return\ The\ wave\ delay\r\n
+comment2.params=location\ whichWave
+comment2.target=java.util.LinkedList\ parseWave(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Parses\ a\ text\ file\ into\ a\ wave\ of\ enemies\ for\ the\ game.\ \ The\ wave\ file\ must\ conform\ to\ the\ following\ specific\ format\:\r\n\ \r\n\ [parameters]\r\n\ wave\ delay\ \=\ value\r\n\ enemy\ delay\ \=\ value\r\n\ experience\ \=\ value\r\n\ [/parameters]\r\n\ \r\n\ [wave]\r\n\ moveType,\ enemy\ bulletSpeed\ startingXPosition\ startingYPosition,\ enemy\ bulletSpeed\ startingXPosition\ startingYPosition,\ ...\r\n\ moveType,\ enemy\ bulletSpeed\ startingXPosition\ startingYPosition,\ enemy\ bulletSpeed\ startingXPosition\ startingYPosition,\ ...\r\n\ .\r\n\ .\r\n\ .\r\n\ [/wave]\r\n\ \r\n\ Should\ the\ entire\ wave\ section\ be\ left\ out\ then\ the\ file\ will\ still\ be\ parsed\ but\ simply\ as\ empty.\ \ This\ means\ one\ can\ put\ a\ wave\ delay\ if\ a\ buffer\ between\ other\ waves\r\n\ is\ desired.\ \ Also\ the\ parameters\ are\ optional\ and\ will\ default\ to\ 0\ if\ that\ parameter\ is\ missing.\ \ \r\n\ \r\n\ @param\ location\ The\ location\ of\ the\ wave\ file\ to\ be\ parsed\r\n\ @param\ whichWave\ The\ text\ file\ that\ is\ to\ be\ parsed\r\n\ @return\ A\ linked\ list\ of\ linked\ lists\ containing\ a\ wave\ of\ enemies\r\n
+comment3.params=scan
+comment3.target=void\ parseParameters(java.util.Scanner)
+comment4.params=scan\ wave
+comment4.target=void\ parseEnemies(java.util.Scanner,\ java.util.LinkedList)
+comment5.params=whichMove
+comment5.target=int[][]\ parseMove(java.lang.String)
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=tryAgain
+comment0.target=Level1(boolean)
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Do\ whatever\ the\ Level1\ wants\ to\ do.\ \r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ This\ method\ is\ called\ by\ the\ Greenfoot\ system\ when\ this\ object\ has\ been\ inserted\ into\ the\ world.\ \ Add's\ the\ players\ ship\ to\ the\ world,\r\n\ set's\ the\ background,\ and\ stores\ the\ ships\ current\ x\ and\ y\ values.\ \ \r\n\ \r\n\ @param\ world\ The\ world\ this\ object\ was\ added\ to.\r\n
+comment3.params=
+comment3.target=void\ loadImages()
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ getSpaceBG()
+numComments=5

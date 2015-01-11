@@ -1,0 +1,3 @@
+x offset = -4
+y offset =  0
+how many =  200

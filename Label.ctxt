@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=text\ size\ textColor\ labelColor
+comment0.target=Label(java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color)
+comment0.text=\r\n\ Constructor\ that\ creates\ a\ label\ with\ a\ specified\ text\ and\ background\ color.\r\n\ \r\n\ @param\ text\ The\ string\ to\ written\ inside\ the\ label\r\n\ @param\ size\ The\ font\ size\r\n\ @param\ textColor\ The\ color\ of\ the\ text\r\n\ @param\ labelColor\ The\ background\ color\ of\ the\ label\r\n
+comment1.params=text\ size\ r\ g\ b\ labelColor
+comment1.target=Label(java.lang.String,\ int,\ int,\ int,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Constructor\ that\ creates\ a\ label\ with\ a\ specified\ text\ and\ background\ color.\r\n\ \r\n\ @param\ text\ The\ string\ to\ written\ inside\ the\ label\r\n\ @param\ size\ The\ font\ size\r\n\ @param\ r\ The\ red\ value\ of\ the\ text\r\n\ @param\ g\ The\ green\ value\ of\ the\ text\r\n\ @param\ b\ The\ blue\ value\ of\ the\ text\r\n\ @param\ labelColor\ The\ background\ color\ of\ the\ label\r\n
+comment2.params=text
+comment2.target=void\ updateLabel(java.lang.String)
+comment2.text=\r\n\ Updates\ the\ label\ with\ new\ text\r\n\ \r\n\ @text\ The\ string\ to\ update\ the\ label\ to\r\n
+comment3.params=
+comment3.target=int\ width()
+comment3.text=\r\n\ Gets\ the\ width\ of\ the\ label\r\n\ \r\n\ @return\ The\ labels\ width\r\n
+numComments=4

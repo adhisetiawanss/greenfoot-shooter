@@ -1,0 +1,3 @@
+x offset = -1
+y offset =  0
+how many =  800

@@ -1,0 +1,16 @@
+[parameters]
+enemy delay = 15
+wave delay = 300
+experience = 2
+[/parameters]
+
+[wave]
+down, fight 10 600 0, fight 10 600 0, fight 10 600 0, fight 10 600 0, fight 10 600 0, fight 10 600 0, fight 10 600 0
+up, fight 10 550 600, fight 10 550 600, fight 10 550 600, fight 10 550 600, fight 10 550 600, fight 10 550 600, fight 10 550 600
+stationaryMiddle, disk 5 800 250
+stationaryMiddle, disk 5 800 350
+upWaveFront, fight 10 800 200, fight 10 800 200, fight 10 800 200, fight 10 800 200
+downWaveFront, fight 10 800 400, fight 10 800 400, fight 10 800 400, fight 10 800 400
+zigZagUp, disk 5 800 600, disk 5 800 600, disk 5 800 600, disk 5 800 600
+zigZagDown, disk 5 800 0, disk 5 800 0, disk 5 800 0, disk 5 800 0
+[/wave]

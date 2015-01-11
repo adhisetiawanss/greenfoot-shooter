@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=bg
+comment0.target=Screen(greenfoot.GreenfootImage)
+comment0.text=\r\n\ A\ constructor\ that\ takes\ an\ image\ as\ a\ background.\r\n\ \r\n\ @param\ bg\ A\ GreenfootImage\ that\ is\ to\ be\ the\ background\ from\ this\ screen.\r\n
+comment1.params=
+comment1.target=void\ checkKeys()
+comment1.text=\r\n\ Checks\ to\ see\ if\ a\ key\ press\ was\ done\ by\ the\ user\ and\ for\ which\ key\ it\ was.\ \ If\ the\ \r\n\ user\ presses\ the\ "w"\ or\ "s"\ keys\ then\ buttons\ on\ this\ screen\ will\ highlight\ and\ \r\n\ unhighlight.\ \ If\ a\ user\ presses\ the\ "enter"\ key\ then\ whatever\ button\ was\ highlighted\ is\r\n\ stored\ within\ selectedButton.\r\n
+comment2.params=
+comment2.target=void\ checkKeysAnimate()
+comment2.text=\r\n\ Checks\ to\ see\ if\ a\ key\ press\ was\ done\ by\ the\ user\ and\ for\ which\ key\ it\ was.\ \ If\ the\ \r\n\ user\ presses\ the\ "w"\ or\ "s"\ keys\ then\ buttons\ on\ this\ screen\ will\ highlight\ and\ \r\n\ unhighlight\ while\ animating.\ \ If\ a\ user\ presses\ the\ "enter"\ key\ then\ whatever\ button\ was\r\n\ highlighted\ is\ stored\ within\ selectedButton.\r\n
+numComments=3

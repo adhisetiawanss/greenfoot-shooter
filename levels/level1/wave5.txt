@@ -1,0 +1,10 @@
+[parameters]
+enemy delay = 15
+wave delay = 300
+experience = 2
+[/parameters]
+
+[wave]
+upWaveFront, fight 10 800 200, fight 10 800 200, fight 10 800 200, fight 10 800 200
+downWaveFront, fight 10 800 400, fight 10 800 400, fight 10 800 400, fight 10 800 400
+[/wave]

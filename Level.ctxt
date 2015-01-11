@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Level()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=
+comment1.target=void\ defeated()
+comment1.text=\r\n\ Allows\ the\ player\ to\ announce\ defeat.\r\n
+comment2.params=
+comment2.target=int\ scrollSpeed()
+comment2.text=\r\n\ Returns\ the\ scrolling\ speed\ of\ the\ current\ level.\r\n\ \r\n\ @return\ The\ speed\ of\ the\ current\ level's\ scrolling.\r\n
+comment3.params=
+comment3.target=void\ scrollBackground()
+comment3.text=\r\n\ Redraws\ the\ background\ image\ onto\ bg\ to\ give\ the\ scrolling\ effect.\ \r\n
+comment4.params=
+comment4.target=boolean\ getNextWave()
+comment4.text=\r\n\ Checks\ if\ the\ next\ wave\ is\ available\ for\ retrieval\ or\ not.\ \ If\ it\ is\ then\ \r\n\ the\ next\ wave\ is\ retrieved\ and\ stored\ for\ later\ usage.\r\n\ \r\n\ @return\ True\ if\ the\ next\ wave\ has\ been\ retrieved\ and\ false\ otherwise.\r\n
+comment5.params=
+comment5.target=boolean\ sendNextEnemy()
+comment5.text=\r\n\ Checks\ if\ the\ next\ enemies\ in\ the\ current\ wave\ are\ ready\ to\ be\ inserted\r\n\ into\ the\ world.\ \ If\ so\ then\ the\ next\ enemies\ are\ added\ to\ the\ world.\r\n\ \r\n\ @return\ True\ if\ the\ next\ batch\ of\ enemies\ have\ been\ added\ to\ the\ world\ and\r\n\ false\ otherwise.\r\n
+comment6.params=xPos\ yPos
+comment6.target=boolean\ isCollidable(int,\ int)
+comment6.text=\r\n\ Checks\ collision\ with\ ship\ and\ a\ black\ collision\ mask\r\n
+numComments=7

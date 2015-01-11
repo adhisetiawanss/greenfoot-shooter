@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Launcher(int,\ int)
+comment0.text=\r\n\ Constructor\ that\ records\ the\ newly\ created\ launcher's\ x\ and\ y\ location\r\n\ \r\n\ @param\ x\ The\ launcher's\ x\ location\r\n\ @param\ y\ The\ launcher's\ y\ location\r\n
+comment1.params=x\ y\ bulletspeed\ pattern
+comment1.target=Launcher(int,\ int,\ int,\ int[][])
+comment1.text=\r\n\ Constructor\ that\ records\ the\ newly\ created\ launcher's\ x\ and\ y\ location\ and\ \r\n\ tells\ the\ enemy\ how\ fast\ it's\ bullets\ will\ travel.\ The\ pattern\ it\r\n\ will\ move\ across\ the\ screen\ with\ is\ also\ given.\r\n\ \r\n\ @param\ x\ The\ launcher's\ x\ location\r\n\ @param\ y\ The\ launcher's\ y\ location\r\n\ @param\ bulletspeed\ The\ launcher's\ bullet\ travel\ speed\r\n\ @param\ pattern\ The\ pattern\ for\ which\ the\ launcher's\ movement\ will\ emulate\r\n
+comment2.params=x\ y\ bulletspeed\ pattern\ exp
+comment2.target=Launcher(int,\ int,\ int,\ int[][],\ Exp)
+comment2.text=\r\n\ Constructor\ that\ records\ the\ newly\ created\ launcher's\ x\ and\ y\ location\ and\ \r\n\ tells\ the\ enemy\ how\ fast\ it's\ bullets\ will\ travel.\ The\ pattern\ it\r\n\ will\ move\ across\ the\ screen\ with\ is\ also\ given\ as\ well\ as\ a\ Exp\ object\ for\ it\r\n\ to\ drop\ once\ dead.\r\n\ \r\n\ @param\ x\ The\ launcher's\ x\ location\r\n\ @param\ y\ The\ launcher's\ y\ location\r\n\ @param\ bulletspeed\ The\ launcher's\ bullet\ travel\ speed\r\n\ @param\ pattern\ The\ pattern\ for\ which\ the\ launcher's\ movement\ will\ emulate\r\n\ @param\ exp\ The\ Exp\ object\ that\ will\ be\ added\ to\ the\ world\ once\ dead\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Cloud\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ loadImages()
+comment4.text=\r\n\ Loads\ the\ needed\ images\ for\ animation\r\n
+numComments=5

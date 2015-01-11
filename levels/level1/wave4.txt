@@ -1,0 +1,10 @@
+[parameters]
+enemy delay = 15
+wave delay = 300
+experience = 2
+[/parameters]
+
+[wave]
+zigZagUp, disk 5 800 600, disk 5 800 600, disk 5 800 600, disk 5 800 600
+zigZagDown, disk 5 800 0, disk 5 800 0, disk 5 800 0, disk 5 800 0
+[/wave]

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=myWorld()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=
+comment1.target=void\ tryLevelAgain()
+comment2.params=whichLvl\ tryAgain
+comment2.target=void\ switchLevel(int,\ boolean)
+comment2.text=\r\n\ Switches\ the\ games\ level\ by\ adding\ a\ level\ object\ of\ the\ appropriate\ level\ number.\r\n\ \r\n\ @param\ whichLvl\ The\ level\ number\ to\ switch\ to.\r\n
+comment3.params=
+comment3.target=int\ getWorldWidth()
+comment3.text=\r\n\ Returns\ the\ width\ of\ the\ world.\r\n\ \r\n\ @return\ The\ width\ of\ the\ world.\r\n
+comment4.params=
+comment4.target=int\ getWorldHeight()
+comment4.text=\r\n\ Returns\ the\ height\ of\ the\ world\r\n\ \r\n\ @return\ The\ height\ of\ the\ world.\r\n
+comment5.params=
+comment5.target=boolean\ isPaused()
+comment5.text=\r\n\ Checks\ to\ see\ if\ the\ game\ is\ paused\ or\ not.\r\n\ \r\n\ @return\ True\ if\ game\ is\ paused\ and\ false\ otherwise.\r\n
+comment6.params=
+comment6.target=void\ unPause()
+comment6.text=\r\n\ Unpauses\ the\ game.\r\n
+comment7.params=
+comment7.target=void\ pause()
+comment7.text=\r\n\ Pauses\ the\ game.\r\n
+comment8.params=
+comment8.target=void\ cleanWorld()
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=location\ whichWave
+comment0.target=Node(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ receives\ a\ name\ of\ a\ wave\ file\ to\ parse.\r\n\ \r\n\ @param\ whichWave\ The\ name\ of\ the\ wave\ file\ to\ look\ for.\r\n
+comment1.params=
+comment1.target=int\ enemyDelay()
+comment1.text=\r\n\ Returns\ the\ enemies\ delay.\r\n\ \r\n\ @return\ The\ enemy\ delay\r\n
+comment2.params=
+comment2.target=int\ waveDelay()
+comment2.text=\r\n\ Returns\ the\ waves\ delay.\r\n\ \r\n\ @return\ The\ wave\ delay\r\n
+comment3.params=
+comment3.target=boolean\ hasEnemies()
+comment3.text=\r\n\ Check\ to\ see\ if\ the\ wave\ has\ any\ more\ enemies.\r\n\ \r\n\ @return\ True\ if\ there\ are\ enemies\ left\ and\ false\ otherwise\r\n
+comment4.params=
+comment4.target=java.util.LinkedList\ nextEnemy()
+comment4.text=\r\n\ Returns\ the\ next\ enemy\ within\ the\ wave.\r\n\ \r\n\ @return\ The\ next\ enemy\ in\ the\ wave\r\n
+numComments=5

@@ -1,0 +1,12 @@
+[parameters]
+enemy delay = 15
+wave delay = 100
+experience = 2
+[/parameters]
+
+[wave]
+downCross, disk 5 800 150, disk 5 800 150, disk 5 800 150, disk 5 800 150, disk 5 800 150
+upCross,   disk 5 800 450, disk 5 800 450, disk 5 800 450, disk 5 800 450, disk 5 800 450
+straight, fight 3 800 200, fight 3 800 200, fight 3 800 200, fight 3 800 200, fight 3 800 200
+straight, fight 3 800 400, fight 3 800 400, fight 3 800 400, fight 3 800 400, fight 3 800 400
+[/wave]

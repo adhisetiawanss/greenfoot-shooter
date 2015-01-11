@@ -1,0 +1,3 @@
+[parameters]
+wave delay = 300
+[/parameters]

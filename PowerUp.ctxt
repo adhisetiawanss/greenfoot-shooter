@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=delayAmount
+comment0.target=PowerUp(int)
+comment0.text=\r\n\ Constructor\ that\ creates\ a\ new\ power\ up\ with\ a\ specified\ amount\ used\ as\ a\ \r\n\ delay\ for\ animations.\r\n\ \r\n\ @param\ delayAmount\ The\ amount\ by\ which\ to\ delay\ animations\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ This\ method\ is\ called\ by\ the\ Greenfoot\ system\ when\ the\ object\ has\ been\ inserted\ into\ the\ world.\r\n\ \r\n\ @param\ world\ The\ world\ this\ object\ was\ added\ to.\r\n
+comment2.params=
+comment2.target=void\ removeSelf()
+comment2.text=\r\n\ Removes\ self\ from\ the\ world\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Moves\ across\ the\ screen\ from\ right\ to\ left\ \r\n
+comment4.params=
+comment4.target=void\ animate()
+comment4.text=\r\n\ Animates\ one\ self\ by\ cycling\ though\ it's\ own\ images\r\n
+numComments=5

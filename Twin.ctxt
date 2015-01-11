@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ direction\ ship
+comment0.target=Twin(int,\ int,\ double,\ Ship)
+comment0.text=\r\n\ Create\ a\ Twin\ laser\ weapon\ with\ the\ specified\ location,\ and\ direction.\r\n\ \r\n\ @param\ x\ The\ x\ location\ within\ the\ world.\r\n\ @param\ y\ The\ y\ location\ within\ the\ world.\r\n\ @param\ direction\ The\ direction\ the\ weapon\ will\ travel\r\n\ @param\ ship\ The\ ship\ reference\ that\ fired\ this\ weapon\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Twin\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=int\ damage()
+comment2.text=\r\n\ Get's\ the\ weapons\ damage\r\n\ \r\n\ @return\ The\ damage\ this\ weapon\ inflicts\r\n
+comment3.params=
+comment3.target=int\ speed()
+comment3.text=\r\n\ Get's\ the\ weapons\ speed\r\n\ \r\n\ @return\ The\ speed\ that\ this\ weapon\ travels\ at\r\n
+comment4.params=
+comment4.target=int\ fireRate()
+comment4.text=\r\n\ Get's\ how\ fast\ the\ weapon\ is\ fired\r\n\ \r\n\ @return\ The\ speed\ that\ this\ weapon\ is\ fired\ at\r\n
+numComments=5

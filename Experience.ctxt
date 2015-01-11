@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Experience()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=
+comment1.target=boolean\ levelUp()
+comment1.text=\r\n\ Checks\ to\ see\ if\ the\ players\ has\ leveled\ up\ or\ not.\r\n\ \r\n\ @return\ True\ if\ a\ level\ up\ occured\ and\ false\ otherwise\r\n
+comment2.params=exp
+comment2.target=void\ recieveExp(int)
+comment2.text=\r\n\ Increases\ the\ players\ experience\ by\ a\ specified\ amount\r\n\ \r\n\ @param\ exp\ The\ experience\ amount\ to\ be\ recieved\r\n
+comment3.params=amount
+comment3.target=void\ setExp(int)
+comment3.text=\r\n\ Set's\ the\ players\ experience\ to\ a\ specified\ amount\r\n\ \r\n\ @param\ amount\ The\ amount\ to\ set\ the\ experience\ to\r\n
+comment4.params=
+comment4.target=int\ exp()
+comment4.text=\r\n\ Returns\ the\ current\ experience\ \r\n\ \r\n\ @return\ The\ current\ experience\r\n
+comment5.params=amount
+comment5.target=void\ drawBar(int)
+numComments=6
